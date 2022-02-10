@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charles Chimaobi
 - 👀 I’m interested in software development, Artificial intelligence and Data science.
-- 🌱 I’m currently learning Web development(Backend) and AI
-- 💞️ I’m looking to collaborate on projects that would help give me bettter understanding of the aforementioned areas of specialization
+- 🌱 Currently, I'm learning Web development(Backend using Django framework)  and AI
+- 💞️ I look forward to collaborating on projects that would help give me bettter understanding of the aforementioned areas of specialization
 - 📫 you can reach me on the following:
   phone: +2348082446961
   email:charleschimaobi95@gmail.com.
